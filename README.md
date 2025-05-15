@@ -33,7 +33,7 @@
 
 ## 📫 Как связаться
 
-- (LinkedIn)[https://www.linkedin.com/in/a-konovaloff/]
+- (LinkedIn)|[https://www.linkedin.com/in/a-konovaloff/]
 - Email: [твой email]
 
 ---
