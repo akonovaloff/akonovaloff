@@ -34,7 +34,7 @@
 ## 📫 Как связаться
 
 - [LinkedIn](https://www.linkedin.com/in/a-konovaloff/)
-- [Email](https://www.linkedin.com/in/a-konovaloff/)
+- [Telegram](https://t.me/a_konovaloff)
 
 ---
 
